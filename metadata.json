@@ -1,0 +1,8 @@
+{
+  "name": "PIAVS - Power Intelligence Analysis & Verification Suite",
+  "description": "Intelligent analysis and verification toolset for power conversion systems, featuring CAN log parsing, anomaly detection, and MBD logic validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
